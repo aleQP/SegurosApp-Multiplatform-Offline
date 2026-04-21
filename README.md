@@ -1,6 +1,6 @@
 # SegurosApp-Multiplatform-Offline
 
-1. Configuración del Entorno: Pasos para instalar el SDK de Android, dependencias de CocoaPods para iOS y el entorno de desarrollo de aplicaciones para Windows.
+1. Configuración del Entorno: Pasos para instalar el SDK de Android, dependencias para iOS y el entorno de desarrollo de aplicaciones para Windows.
 
 2. Instalación: Comandos específicos para la reconstrucción de módulos nativos y la configuración de la base de datos local SQLite.
 

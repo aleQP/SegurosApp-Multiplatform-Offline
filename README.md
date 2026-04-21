@@ -1,0 +1,1 @@
+# SegurosApp-Multiplatform-Offline
